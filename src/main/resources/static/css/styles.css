@@ -1,0 +1,53 @@
+.1_4 {
+	overflow:hidden;
+}
+.e1_4 {
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e5_31 {
+	width:2548px;
+	height:1024px;
+	position:absolute;
+	left:-1108px;
+	top:0px;
+	background-image:url(../images/____2_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_6 {
+	background-color:rgba(255, 255, 255, 0.4399999976158142);
+	width:446px;
+	height:890px;
+	position:absolute;
+	left:48px;
+	top:50px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+}
+.e3_9 {
+	color:rgba(0, 0, 0, 1);
+	width:1790px;
+	height:902px;
+	position:absolute;
+	left:83px;
+	top:50px;
+	font-family:JejuHallasan;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e3_16 {
+	color:rgba(0, 0, 0, 1);
+	position:absolute;
+	left:57px;
+	top:247px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
